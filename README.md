@@ -1,6 +1,6 @@
 # HotelRental
 
-<p align="center"><strong>IB DP - Computer Science IA**</strong></p>
+<p align="center"><strong>IB DP - Computer Science IA</strong></p>
 
 <br> 
 
