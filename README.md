@@ -1,7 +1,6 @@
 # HotelRental
 
-IB DP - Computer Science IA
-
+<p align="center"><strong>IB DP - Computer Science IA**</strong></p>
 
 <br> 
 
@@ -22,6 +21,8 @@ Simple iOS application for Hotel Movie Rental Services. Built using Swift, Googl
 1. Unzip file from /Product 
 1. Open **HotelMovieApp.xcworkspace** file 
 1. Build and Run from Xcode on simulator. 
+
+<br>
 
 ***If the above steps don't work - try the following.***
 
