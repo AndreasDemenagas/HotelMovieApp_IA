@@ -33,11 +33,16 @@ Simple iOS application for Hotel Movie Rental Services. Built using Swift, Googl
 
 ## Running Source Code  
 
-1. Download the source code from the IA Files (Product/HotelMovieApp.zip)
+1. Make sure Xcode 11.x is installed in your machine (MacOS 10.15)
+1. Unzip file from /Product 
+1. Open **HotelMovieApp.xcworkspace** file 
+1. Build and Run from Xcode on simulator. 
 
-1. Make sure Xcode 11.x is installed in your machine 
+***If the above steps don't work - try the following.***
+
+1. Unzip the source code from the IA Files (Product/HotelMovieApp.zip)
 1. Install cocoapods from [https://cocoapods.org/.](https://cocoapods.org/)
 1. Run `pod install` on main directory
-1. Open "HotelMovieApp.xcworkspace" file 
+1. Open **HotelMovieApp.xcworkspace** file 
 1. Build and Run from Xcode on simulator
 
