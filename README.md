@@ -10,8 +10,7 @@ Simple iOS application for Hotel Movie Rental Services. Built using Swift, Googl
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-5-orange.svg" />
      <img src="https://img.shields.io/badge/platforms-iOS-brightgreen.svg?style=flat" alt="iOS" />
-    <a href="https://twitter.com/johnsundell">
-        <img src="https://img.shields.io/badge/Tested on-iOS 13.x-blue.svg?style=flat" alt="Twitter: @johnsundell" />
+    <img src="https://img.shields.io/badge/Tested on-iOS 13.x-blue.svg?style=flat" alt="Tested of iOS 13.x" />
     </a>
 </p>
 
