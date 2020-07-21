@@ -5,6 +5,7 @@
 <br> 
 
 Simple iOS application for Hotel Movie Rental Services. Built using Swift, Google Firebase and the MovieDB API. Wrote with Xcode 11.1 & Swift 5. 
+
 ***This repo is created for additional help during the IBO's examination, thus doesn't include the solution's source code.***
 
 
