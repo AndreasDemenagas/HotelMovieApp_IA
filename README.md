@@ -20,6 +20,7 @@ Simple iOS application for Hotel Movie Rental Services. Built using Swift, Googl
 
 * Xcode 11 
 * Swift 5.2
+* UIKit 
 * Google Firebase (Auth - Database - Storage)
 * Nested UICollectionViews
 * Interaction with REST APIs (Custom Networking Layer)
